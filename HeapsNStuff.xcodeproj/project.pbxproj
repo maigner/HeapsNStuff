@@ -7,6 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5B7DA0421AA5DFB800472AF5 /* heap_compare_1.p in Sources */ = {isa = PBXBuildFile; fileRef = 5B7DA0411AA5DFB800472AF5 /* heap_compare_1.p */; };
+		5B7DA0441AA5EA4B00472AF5 /* heap_compare_2.p in Sources */ = {isa = PBXBuildFile; fileRef = 5B7DA0431AA5EA4B00472AF5 /* heap_compare_2.p */; };
+		5B7DA0461AA5EACE00472AF5 /* heap_compare_3.p in Sources */ = {isa = PBXBuildFile; fileRef = 5B7DA0451AA5EACE00472AF5 /* heap_compare_3.p */; };
+		5B7DA0481AA5EB5900472AF5 /* heap_compare_4.p in Sources */ = {isa = PBXBuildFile; fileRef = 5B7DA0471AA5EB5900472AF5 /* heap_compare_4.p */; };
+		5B7DA04A1AA5EE3500472AF5 /* heap_compare_5.p in Sources */ = {isa = PBXBuildFile; fileRef = 5B7DA0491AA5EE3500472AF5 /* heap_compare_5.p */; };
+		5B7DA04C1AA5EF3000472AF5 /* heap_compare_6.p in Sources */ = {isa = PBXBuildFile; fileRef = 5B7DA04B1AA5EF3000472AF5 /* heap_compare_6.p */; };
+		5B7DA04E1AA5F01600472AF5 /* heap_compare_7.p in Sources */ = {isa = PBXBuildFile; fileRef = 5B7DA04D1AA5F01600472AF5 /* heap_compare_7.p */; };
+		5B7DA0501AA5F1F000472AF5 /* heap_compare_8.p in Sources */ = {isa = PBXBuildFile; fileRef = 5B7DA04F1AA5F1EF00472AF5 /* heap_compare_8.p */; };
+		5B7DA0521AA5F52300472AF5 /* heap_compare_9.p in Sources */ = {isa = PBXBuildFile; fileRef = 5B7DA0511AA5F52300472AF5 /* heap_compare_9.p */; };
 		5BB45DF91AA5B29A008FCAD1 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5BB45DF81AA5B29A008FCAD1 /* main.cpp */; };
 /* End PBXBuildFile section */
 
@@ -23,8 +32,18 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		5B7DA0411AA5DFB800472AF5 /* heap_compare_1.p */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.pascal; path = heap_compare_1.p; sourceTree = "<group>"; };
+		5B7DA0431AA5EA4B00472AF5 /* heap_compare_2.p */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.pascal; path = heap_compare_2.p; sourceTree = "<group>"; };
+		5B7DA0451AA5EACE00472AF5 /* heap_compare_3.p */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.pascal; path = heap_compare_3.p; sourceTree = "<group>"; };
+		5B7DA0471AA5EB5900472AF5 /* heap_compare_4.p */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.pascal; path = heap_compare_4.p; sourceTree = "<group>"; };
+		5B7DA0491AA5EE3500472AF5 /* heap_compare_5.p */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.pascal; path = heap_compare_5.p; sourceTree = "<group>"; };
+		5B7DA04B1AA5EF3000472AF5 /* heap_compare_6.p */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.pascal; path = heap_compare_6.p; sourceTree = "<group>"; };
+		5B7DA04D1AA5F01600472AF5 /* heap_compare_7.p */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.pascal; path = heap_compare_7.p; sourceTree = "<group>"; };
+		5B7DA04F1AA5F1EF00472AF5 /* heap_compare_8.p */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.pascal; path = heap_compare_8.p; sourceTree = "<group>"; };
+		5B7DA0511AA5F52300472AF5 /* heap_compare_9.p */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.pascal; path = heap_compare_9.p; sourceTree = "<group>"; };
 		5BB45DF51AA5B29A008FCAD1 /* HeapsNStuff */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = HeapsNStuff; sourceTree = BUILT_PRODUCTS_DIR; };
-		5BB45DF81AA5B29A008FCAD1 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		5BB45DF81AA5B29A008FCAD1 /* main.cpp */ = {isa = PBXFileReference; indentWidth = 2; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		5BB45E001AA5B5F7008FCAD1 /* Heap.h */ = {isa = PBXFileReference; fileEncoding = 4; indentWidth = 2; lastKnownFileType = sourcecode.c.h; path = Heap.h; sourceTree = "<group>"; tabWidth = 2; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +57,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		5B7DA0401AA5DF9C00472AF5 /* plot */ = {
+			isa = PBXGroup;
+			children = (
+				5B7DA0511AA5F52300472AF5 /* heap_compare_9.p */,
+				5B7DA04F1AA5F1EF00472AF5 /* heap_compare_8.p */,
+				5B7DA04D1AA5F01600472AF5 /* heap_compare_7.p */,
+				5B7DA04B1AA5EF3000472AF5 /* heap_compare_6.p */,
+				5B7DA0491AA5EE3500472AF5 /* heap_compare_5.p */,
+				5B7DA0471AA5EB5900472AF5 /* heap_compare_4.p */,
+				5B7DA0451AA5EACE00472AF5 /* heap_compare_3.p */,
+				5B7DA0431AA5EA4B00472AF5 /* heap_compare_2.p */,
+				5B7DA0411AA5DFB800472AF5 /* heap_compare_1.p */,
+			);
+			path = plot;
+			sourceTree = SOURCE_ROOT;
+		};
 		5BB45DEC1AA5B29A008FCAD1 = {
 			isa = PBXGroup;
 			children = (
@@ -57,7 +92,9 @@
 		5BB45DF71AA5B29A008FCAD1 /* HeapsNStuff */ = {
 			isa = PBXGroup;
 			children = (
+				5B7DA0401AA5DF9C00472AF5 /* plot */,
 				5BB45DF81AA5B29A008FCAD1 /* main.cpp */,
+				5BB45E001AA5B5F7008FCAD1 /* Heap.h */,
 			);
 			path = HeapsNStuff;
 			sourceTree = "<group>";
@@ -119,6 +156,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				5BB45DF91AA5B29A008FCAD1 /* main.cpp in Sources */,
+				5B7DA04A1AA5EE3500472AF5 /* heap_compare_5.p in Sources */,
+				5B7DA0521AA5F52300472AF5 /* heap_compare_9.p in Sources */,
+				5B7DA0501AA5F1F000472AF5 /* heap_compare_8.p in Sources */,
+				5B7DA0421AA5DFB800472AF5 /* heap_compare_1.p in Sources */,
+				5B7DA0461AA5EACE00472AF5 /* heap_compare_3.p in Sources */,
+				5B7DA0441AA5EA4B00472AF5 /* heap_compare_2.p in Sources */,
+				5B7DA0481AA5EB5900472AF5 /* heap_compare_4.p in Sources */,
+				5B7DA04C1AA5EF3000472AF5 /* heap_compare_6.p in Sources */,
+				5B7DA04E1AA5F01600472AF5 /* heap_compare_7.p in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -202,6 +248,7 @@
 		5BB45DFD1AA5B29A008FCAD1 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "c++14";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -209,6 +256,7 @@
 		5BB45DFE1AA5B29A008FCAD1 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "c++14";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -232,6 +280,7 @@
 				5BB45DFE1AA5B29A008FCAD1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

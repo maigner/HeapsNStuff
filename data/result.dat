@@ -1,0 +1,6 @@
+n	100	t_MyHeap	2.7	dev_MyHeap	1.49443	t_STLHeap	0.7	dev_STLHeap	0.483046
+n	1000	t_MyHeap	25.9	dev_MyHeap	0.737865	t_STLHeap	6.9	dev_STLHeap	0.316228
+n	10000	t_MyHeap	241.5	dev_MyHeap	23.5808	t_STLHeap	56.8	dev_STLHeap	0.421637
+n	100000	t_MyHeap	2855.2	dev_MyHeap	812.692	t_STLHeap	904.9	dev_STLHeap	6.7897
+n	1000000	t_MyHeap	25497.4	dev_MyHeap	1614.38	t_STLHeap	6870.1	dev_STLHeap	720.364
+n	10000000	t_MyHeap	271917	dev_MyHeap	25028.7	t_STLHeap	108998	dev_STLHeap	59675
